@@ -1,0 +1,2 @@
+# pebble_linux_os
+I would like  to build an OS , with Artifical intelligent for better future it can be help full to country based military force, Navy force, Airforce,hospitilization, Business,transport,studies,robotics,automation,technology , gaming , entertainment etc..and more over its need high security with no alogirithm can crash the OS or security thread , so need to build world strongest OS on it.
